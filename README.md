@@ -3,9 +3,9 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm QTDev2139</h2>
-<p align="center">
+<!--<p align="center">
   <h3 align="center">A developer from Vietnam 🇻🇳 </h3>
-</p>
+</p>--!>
 
 > 
 <br />
