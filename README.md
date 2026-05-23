@@ -1,53 +1,50 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/QTDev2139.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+# Hey there! I'm Tran Viet Quan 👋
 
-<h2 align="center">Hi 👋, I'm QTDev2139</h2>
-<!--<p align="center">
-  <h3 align="center">A developer from Vietnam 🇻🇳 </h3>
-</p>--!>
+**Intern Web Developer | Information Technology Student at IUH | Ho Chi Minh City, Vietnam**
 
-> 
-<br />
+I'm currently an Intern Web Developer with a strong passion for building polished, scalable web applications, crafting clean user experiences, and exploring modern tech stacks. My long-term goal is to grow into a well-rounded Full-stack Engineer.
 
-[![Join the chat at https://gitter.im/QTDev2139/Github-Profile-Tutorial](https://badges.gitter.im/QTDev2139/Github-Profile-Tutorial.svg)](https://gitter.im/QTDev2139/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=QTDev2139&style=flat-square)
+## 🚀 Quick Highlights
 
-## 📫 How to reach me:
+* 🎓 **Information Technology Student** at Industrial University of Ho Chi Minh City (IUH)
+* 🗣️ **Languages:** Learning Japanese (Targeting JLPT N3) & English (Targeting TOEIC 450+)
+* 💻 Active in web development, building practical e-commerce systems and language learning platforms.
 
-<p align="center">
-  <a href="https://www.facebook.com/quan.02.10.2003/" alt="Facebook"> 
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/QTDev2139" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:tranvietquan02102003@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+## 💻 Tech Stack
 
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</p>
+**Frontend:** Next.js • React • TypeScript • Tailwind CSS • shadcn/ui
+**State Management:** Zustand
+**Backend:** PHP • Laravel • Golang (Go)
+**Database:** MySQL • PostgreSQL
+**Tools:** Docker • Git • GitHub • Python (Automation Tools)
 
-## Activities:
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
+## 📫 Let's Connect
+
+* 📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+* 🔗 **LinkedIn:** [LinkedIn](https://linkedin.com/in/your-linkedin-profile) | **Facebook:** [Facebook](https://facebook.com/your-facebook-profile)
+
+---
+
+*Open to collaboration on innovative products, backend engineering, and full-stack development opportunities!*
+
+## 🛠️ More Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Go / Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
