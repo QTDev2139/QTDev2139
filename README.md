@@ -7,7 +7,7 @@ I'm currently an Fresher Web Developer with a strong passion for building polish
 ## 🚀 Quick Highlights
 
 * 🎓 **Information Technology Student** at Industrial University of Ho Chi Minh City (IUH)
-* 🗣️ **Languages:** Learning Japanese (JLPT N3) & English (TOEIC 470)
+* 🗣️ **Languages:** Learning Japanese (JLPT N4) & English (TOEIC 470)
 * 💻 Active in web development, building practical e-commerce systems and language learning platforms.
 
 ## 💻 Tech Stack
