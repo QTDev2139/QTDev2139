@@ -16,7 +16,7 @@ I'm currently an Fresher Web Developer with a strong passion for building polish
 
 **State Management:** Zustand
 
-**Backend:** PHP • Laravel • Golang (Go)
+**Backend:** PHP • Laravel 
 
 **Database:** MySQL • SQLServer • PostgreSQL
 
@@ -35,7 +35,6 @@ I'm currently an Fresher Web Developer with a strong passion for building polish
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Go / Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
